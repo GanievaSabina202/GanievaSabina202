@@ -5,5 +5,5 @@
  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,styledcomponents,javascript,react,nextjs,typescript,redux,jquery,firebase,webpack)](https://skillicons.dev)
   
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GanievaSabina202&layout=compact&theme=gotham&custom_title=Statistics)  
+<!-- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GanievaSabina202&layout=compact&theme=gotham&custom_title=Statistics)   -->
